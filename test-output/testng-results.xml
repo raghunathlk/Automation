@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="8" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[Suite testH]]>
+    </line>
+    <line>
+      <![CDATA[test testF]]>
+    </line>
+    <line>
+      <![CDATA[class testD]]>
+    </line>
+    <line>
+      <![CDATA[method testB]]>
+    </line>
+    <line>
+      <![CDATA[ test1]]>
+    </line>
+    <line>
+      <![CDATA[method testC]]>
+    </line>
+    <line>
+      <![CDATA[method testB]]>
+    </line>
+    <line>
+      <![CDATA[ test2]]>
+    </line>
+    <line>
+      <![CDATA[method testC]]>
+    </line>
+    <line>
+      <![CDATA[class testE]]>
+    </line>
+    <line>
+      <![CDATA[class testD]]>
+    </line>
+    <line>
+      <![CDATA[method testB]]>
+    </line>
+    <line>
+      <![CDATA[ test3]]>
+    </line>
+    <line>
+      <![CDATA[method testC]]>
+    </line>
+    <line>
+      <![CDATA[method testB]]>
+    </line>
+    <line>
+      <![CDATA[ test4]]>
+    </line>
+    <line>
+      <![CDATA[method testC]]>
+    </line>
+    <line>
+      <![CDATA[class testE]]>
+    </line>
+    <line>
+      <![CDATA[test testG]]>
+    </line>
+    <line>
+      <![CDATA[Suite testI]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="51" started-at="2018-12-01T10:04:06Z" finished-at="2018-12-01T10:04:06Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="51" started-at="2018-12-01T10:04:06Z" finished-at="2018-12-01T10:04:06Z">
+      <class name="testng.testB">
+        <test-method status="PASS" signature="testD()[pri:0, instance:testng.testB@15d3402]" name="testD" is-config="true" duration-ms="0" started-at="2018-12-01T10:04:06Z" finished-at="2018-12-01T10:04:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[class testD]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testD -->
+        <test-method status="PASS" signature="testB()[pri:0, instance:testng.testB@15d3402]" name="testB" is-config="true" duration-ms="1" started-at="2018-12-01T10:04:06Z" finished-at="2018-12-01T10:04:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[method testB]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testB -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:testng.testB@15d3402]" name="test3" duration-ms="1" started-at="2018-12-01T10:04:06Z" finished-at="2018-12-01T10:04:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[ test3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="testC()[pri:0, instance:testng.testB@15d3402]" name="testC" is-config="true" duration-ms="0" started-at="2018-12-01T10:04:06Z" finished-at="2018-12-01T10:04:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[method testC]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testC -->
+        <test-method status="PASS" signature="testB()[pri:0, instance:testng.testB@15d3402]" name="testB" is-config="true" duration-ms="1" started-at="2018-12-01T10:04:06Z" finished-at="2018-12-01T10:04:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[method testB]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testB -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:testng.testB@15d3402]" name="test4" duration-ms="3" started-at="2018-12-01T10:04:06Z" finished-at="2018-12-01T10:04:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[ test4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="testC()[pri:0, instance:testng.testB@15d3402]" name="testC" is-config="true" duration-ms="0" started-at="2018-12-01T10:04:06Z" finished-at="2018-12-01T10:04:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[method testC]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testC -->
+        <test-method status="PASS" signature="testE()[pri:0, instance:testng.testB@15d3402]" name="testE" is-config="true" duration-ms="1" started-at="2018-12-01T10:04:06Z" finished-at="2018-12-01T10:04:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[class testE]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testE -->
+      </class> <!-- testng.testB -->
+      <class name="testng.testA">
+        <test-method status="PASS" signature="testH()[pri:0, instance:testng.testA@feb3fa]" name="testH" is-config="true" duration-ms="25" started-at="2018-12-01T10:04:06Z" finished-at="2018-12-01T10:04:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Suite testH]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testH -->
+        <test-method status="PASS" signature="testF()[pri:0, instance:testng.testA@feb3fa]" name="testF" is-config="true" duration-ms="1" started-at="2018-12-01T10:04:06Z" finished-at="2018-12-01T10:04:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[test testF]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testF -->
+        <test-method status="PASS" signature="testD()[pri:0, instance:testng.testA@feb3fa]" name="testD" is-config="true" duration-ms="0" started-at="2018-12-01T10:04:06Z" finished-at="2018-12-01T10:04:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[class testD]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testD -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:testng.testA@feb3fa]" name="test1" duration-ms="12" started-at="2018-12-01T10:04:06Z" finished-at="2018-12-01T10:04:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[ test1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="testB()[pri:0, instance:testng.testA@feb3fa]" name="testB" is-config="true" duration-ms="0" started-at="2018-12-01T10:04:06Z" finished-at="2018-12-01T10:04:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[method testB]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testB -->
+        <test-method status="PASS" signature="testC()[pri:0, instance:testng.testA@feb3fa]" name="testC" is-config="true" duration-ms="1" started-at="2018-12-01T10:04:06Z" finished-at="2018-12-01T10:04:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[method testC]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testC -->
+        <test-method status="PASS" signature="testB()[pri:0, instance:testng.testA@feb3fa]" name="testB" is-config="true" duration-ms="1" started-at="2018-12-01T10:04:06Z" finished-at="2018-12-01T10:04:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[method testB]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testB -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:testng.testA@feb3fa]" name="test2" duration-ms="1" started-at="2018-12-01T10:04:06Z" finished-at="2018-12-01T10:04:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[ test2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="testC()[pri:0, instance:testng.testA@feb3fa]" name="testC" is-config="true" duration-ms="0" started-at="2018-12-01T10:04:06Z" finished-at="2018-12-01T10:04:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[method testC]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testC -->
+        <test-method status="PASS" signature="testE()[pri:0, instance:testng.testA@feb3fa]" name="testE" is-config="true" duration-ms="0" started-at="2018-12-01T10:04:06Z" finished-at="2018-12-01T10:04:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[class testE]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testE -->
+        <test-method status="PASS" signature="testG()[pri:0, instance:testng.testA@feb3fa]" name="testG" is-config="true" duration-ms="1" started-at="2018-12-01T10:04:06Z" finished-at="2018-12-01T10:04:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[test testG]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testG -->
+        <test-method status="PASS" signature="testI()[pri:0, instance:testng.testA@feb3fa]" name="testI" is-config="true" duration-ms="1" started-at="2018-12-01T10:04:06Z" finished-at="2018-12-01T10:04:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Suite testI]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testI -->
+      </class> <!-- testng.testA -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
